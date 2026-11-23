@@ -1,6 +1,6 @@
 # Hi, I'm Mansoor Ahmad Jan 👋
 
-**Computer Science student at UET Peshawar | Cybersecurity & Cloud Security**
+**Computer Science | Cybersecurity & Cloud Security**
 
 I am building a strong foundation in cybersecurity, networking, Linux, cloud computing and software development. My goal is to understand how systems work, how they can be secured, and how to build reliable applications.
 
