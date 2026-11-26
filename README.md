@@ -6,7 +6,7 @@ I am building a strong foundation in cybersecurity, networking, Linux, cloud com
 
 ## What I'm learning
 
-- Cybersecurity fundamentals through the Google Cybersecurity Professional Certificate
+- Cybersecurity fundamentals 
 - Linux, SQL and networking fundamentals
 - Cloud infrastructure, containerization and secure deployment practices
 - Programming and practical software development
